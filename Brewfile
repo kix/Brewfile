@@ -6,7 +6,11 @@ cask anybar
 cask wkhtmltopdf
 
 tap homebrew/core
-brew mobile-shell
+brew bat
+brew clojure
+brew diff-so-fancy
+
+brew mosh
 brew ssh-copy-id
 brew mysql
 brew tbb
